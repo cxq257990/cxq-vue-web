@@ -1,34 +1,97 @@
-# ÏîÄ¿¼ò½é
-»ùÓÚpython3µÄ×Ô¶¯»¯½Ó¿Ú²âÊÔ
+# é¡¹ç›®ç®€ä»‹
+åŸºäºpython3çš„è‡ªåŠ¨åŒ–æ¥å£æµ‹è¯•
 
-## ¹¦ÄÜ
-* Win7 64£¬python 3£¬Pycharm. unittest
-* excel¹ÜÀíÓÃÀı
-* ÓÊ¼ş·¢ËÍ²âÊÔ½á¹û
-* »ùÓÚpictÄ£ºı²âÊÔ
+## åŠŸèƒ½
+* Win7 64ï¼Œpython 3ï¼ŒPycharm. unittest
+* excelç®¡ç†ç”¨ä¾‹
+* é‚®ä»¶å‘é€æµ‹è¯•ç»“æœ
+* åŸºäºpictæ¨¡ç³Šæµ‹è¯•
 
-## ÓÃ·¨
-### ²»Ê¹ÓÃÄ£ºı²âÊÔ
-* Ê×ÏÈµçÄÔĞèÒªÅäÖÃpython3.4µÄ»·¾³
-* µã»÷libÄ¿Â¼ÏÂµÄinstall.bat°²×°ÒÀÀµÎÄ¼ş
-* Î¬»¤ReportÄ¿Â¼ÏÂµÄapi.xlsxĞ´Èë½Ó¿Ú²âÊÔ
-* µã»÷Runner.pyµÄstart.bat,»òÕßpython runner.py
-* ²é¿´²âÊÔ±¨¸æReportÄ¿Â¼ÏÂµÄreport.xlsx
-### Ê¹ÓÃÄ£ºı²âÊÔ
-* µã»÷libÄ¿Â¼ÏÂµÄinstall_pict.bat½øĞĞÒÀÀµÎÄ¼ş°²×°,»á×Ô¶¯¹Ø±Õexplorer
-* ´ò¿ªSettingÄ¿Â¼ÏÂµÄConfig.iniÉèÖÃÎªTrue
-* Ä£ºı²âÊÔÏÖÔÚÖ»Ö§³Ö¶ÔÃ¿¸ö²ÎÊıµÄ´íÎó£¬É¾³ıµÄ³¡¾°£¬¿ÉÒÔ×ÔĞĞÀ©Õ¹
-* Ä£ºı²âÊÔÔİ²»Ö§³Ö¼ì²éµã
+## ç”¨æ³•
+### ä¸ä½¿ç”¨æ¨¡ç³Šæµ‹è¯•
+* é¦–å…ˆç”µè„‘éœ€è¦é…ç½®python3.4çš„ç¯å¢ƒ
+* ç‚¹å‡»libç›®å½•ä¸‹çš„install.batå®‰è£…ä¾èµ–æ–‡ä»¶
+* ç»´æŠ¤Reportç›®å½•ä¸‹çš„api.xlsxå†™å…¥æ¥å£æµ‹è¯•
+* ç‚¹å‡»Runner.pyçš„start.bat,æˆ–è€…python runner.py
+* æŸ¥çœ‹æµ‹è¯•æŠ¥å‘ŠReportç›®å½•ä¸‹çš„report.xlsx
+### ä½¿ç”¨æ¨¡ç³Šæµ‹è¯•
+* ç‚¹å‡»libç›®å½•ä¸‹çš„install_pict.batè¿›è¡Œä¾èµ–æ–‡ä»¶å®‰è£…,ä¼šè‡ªåŠ¨å…³é—­explorer
+* æ‰“å¼€Settingç›®å½•ä¸‹çš„Config.iniè®¾ç½®ä¸ºTrue
+* æ¨¡ç³Šæµ‹è¯•ç°åœ¨åªæ”¯æŒå¯¹æ¯ä¸ªå‚æ•°çš„é”™è¯¯ï¼Œåˆ é™¤çš„åœºæ™¯ï¼Œå¯ä»¥è‡ªè¡Œæ‰©å±•
+* æ¨¡ç³Šæµ‹è¯•æš‚ä¸æ”¯æŒæ£€æŸ¥ç‚¹
 
 
-## ±¨¸æ
+## æŠ¥å‘Š
 
-![ÓÃÀı](img/api.jpg "api.jpg")
+![ç”¨ä¾‹](img/api.jpg "api.jpg")
 
-![Ê¹ÓÃÄ£ºı²âÊÔºóµÄ²âÊÔ±¨¸æ](img/pict.jpg "pict.jpg")
+![ä½¿ç”¨æ¨¡ç³Šæµ‹è¯•åçš„æµ‹è¯•æŠ¥å‘Š](img/pict.jpg "pict.jpg")
 
-![Ã»ÓĞÊ¹ÓÃÄ£ºı²âÊÔµÄ²âÊÔ±¨¸æ](img/no_pict.jpg "no_pict.jpg")
+![æ²¡æœ‰ä½¿ç”¨æ¨¡ç³Šæµ‹è¯•çš„æµ‹è¯•æŠ¥å‘Š](img/no_pict.jpg "no_pict.jpg")
 
-## ÆäËû
+## å…¶ä»–éœ€è¦ç™»å½•
+æ¥å£æµ‹è¯•éœ€è¦ç™»å½•è¿”å›çš„ä¸€ç³»åˆ—æ•°æ®ï¼Œå¦‚æœä»¤ç‰Œï¼Œä¼šè®®ç­‰ç­‰ï¼Œæ‰“å¼€è·‘å’å‘˜
+ç»è¿‡setUpClassä¼ é€’ç»™å„ä¸ªæ¥å£
+def get_session():
+    req = requests.session()
+    url = ""
+    data = {}
+    req.post(url, data, verify=False)
+    return req
 
-* [Ê¹ÓÃËµÃ÷](mark.md)
+
+class ParametrizedTestCase(unittest.TestCase):
+  
+
+    def __init__(self, methodName='runTest', param=None):
+        super(ParametrizedTestCase, self).__init__(methodName)
+
+    @classmethod
+    def setUpClass(cls):
+        cls.rq = get_session() # ç™»å½•åçš„session
+        pass
+åœ¨çš„TestCaseç›®å½•ä¸­çš„Api.pyä¸­æ¥å—ç™»å½•åçš„ä¼šè¯ï¼Œå¹¶ä¼ ç»™BaseReq.pyä¸­è¿›è¡Œä¿®æ”¹
+
+class ApiTest(ParametrizedTestCase):
+    def test_api(self):
+		ls = read_excel(Element.API_FILE)
+		# self.req å°±æ˜¯å¾—åˆ°äº†ç™»å½•åçš„ä¿¡æ¯session 
+	    Config().config_req(lsï¼Œself.req)
+
+    @classmethod
+    def setUpClass(cls):
+        super(ApiTest, cls).setUpClass()
+        
+
+PICTç”Ÿæˆçš„å¼‚å¸¸åœºæ™¯
+åœ¨BaseParams.pyä¸­çš„__param_formatå‡½æ•°ç”Ÿæˆå¼‚å¸¸åœºæ™¯ï¼Œæ ¹æ®éœ€è¦è‡ªè¡Œæ‰©å±•
+ def __param_format(self, key):
+        param_type = {
+            str: lambda: str(uuid.uuid1()),
+            list: lambda: [],
+            dict: lambda: {}
+        }
+        return param_type[type(key)]()
+æ£€æŸ¥ç‚¹è¯´æ˜
+åœ¨å¯ç”¨PICTçš„æ¨¡ç³Šæµ‹è¯•åï¼Œä¸ä¼šå¯¹æ£€æŸ¥ç‚¹è¿›è¡Œæ£€æŸ¥
+ç°åœ¨æ”¯æŒçš„æ£€æŸ¥ç‚¹ä¸ºï¼š
+{"id":11,"code":2222} æ£€æŸ¥ç‚¹å¯ä»¥è®¾ç½®ä¸ºï¼š {"code":22}
+{"code":1,data:[{"id": "123"}, {}]} æ£€æŸ¥ç‚¹å¯ä»¥è®¾ç½®ä¸ºï¼š{"id":123}
+å¦‚æœæ£€æŸ¥ç‚¹ä¸å¤Ÿç”¨å¯ä»¥è‡ªè¡Œæ‰©å±•ï¼Œæ‰“å¼€BaseReq.pyä¸­çš„__checkå‡½æ•°ï¼š
+    def __check(self, hope, res):
+        hope = json.loads(hope)
+        fact = json.loads(res)
+        for items in fact:
+            if type(fact[items]) == list:
+                for item in fact[items]:
+                    for k in hope:
+                        if item.get(k, "") == hope[k]:
+                            return "é€šè¿‡"
+            if type(fact[items]) == dict:
+                for k in hope:
+                    if fact[items].get(k, "") == hope[k]:
+                        return "é€šè¿‡"
+            for k in hope:
+                if fact.get(k, "") == hope[k]:
+                    return "é€šè¿‡"
+        return "å¤±è´¥"
